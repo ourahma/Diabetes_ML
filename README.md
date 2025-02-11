@@ -21,14 +21,14 @@ Développer un modèle de classification utilisant **KNN** pour détecter le dia
    ```
 2. Installe les dépendances :  
    ```bash
-   pip install -r requirements.txt
+   pip install Scikit-learn pandas numpy matplotlib
    ```
 3. Lance le notebook :  
    ```bash
    jupyter notebook diabetes.ipynb
    ```
 
-## 🔬 Approche  
+## Approche  
 - Prétraitement des données (remplacement des valeurs nulles par la moyenne).  
 - Normalisation des données avec **MinMaxScaler**.  
 - Sélection des caractéristiques **Glucose, Insulin, BMI, Age**.  
