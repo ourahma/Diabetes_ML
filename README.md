@@ -4,7 +4,7 @@ Un projet de Machine Learning utilisant **KNeighborsClassifier** pour prédire s
 ## Objectif  
 Développer un modèle de classification utilisant **KNN** pour détecter le diabète en se basant sur certaines caractéristiques comme le **glucose**, l’**insuline**, l’**IMC** et l’**âge**.
 
-## 🛠Technologies utilisées  
+## Technologies utilisées  
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
@@ -14,7 +14,7 @@ Développer un modèle de classification utilisant **KNN** pour détecter le dia
 - `diabetes.ipynb` : Notebook contenant le code du modèle et son entraînement  
 - `diabetes.csv` : Dataset utilisé pour l'entraînement  
 
-## 🚀 Installation  
+## Installation  
 1. Clone ce repository :  
    ```bash
    git clone https://github.com/ourahma/Diabetes_ML.git
@@ -35,7 +35,7 @@ Développer un modèle de classification utilisant **KNN** pour détecter le dia
 - Entraînement du modèle **KNN** avec `n_neighbors=24`.  
 - Évaluation de la précision (~78,57 %).  
 
-## 📊 Résultats  
+## Résultats  
 - **Précision du modèle** : 78.57 %  
 - **Classification Report** :  
   ```
@@ -47,6 +47,6 @@ Développer un modèle de classification utilisant **KNN** pour détecter le dia
 ##  Auteur  
  
 Maroua Ourahma  
-✉️ Email : marouaourahma@gmail.com 
-🔗 LinkedIn : [linkedin.com/in/ourahma](www.linkedin.com/in/maroua-ourahma-293426235)  
+- Email : marouaourahma@gmail.com 
+- LinkedIn : [linkedin.com/in/ourahma](www.linkedin.com/in/maroua-ourahma-293426235)  
 
