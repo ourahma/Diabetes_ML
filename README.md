@@ -43,5 +43,7 @@ Développer un modèle de classification utilisant **KNN** pour détecter le dia
      0.0       0.81      0.87      0.84       100
      1.0       0.72      0.63      0.67        54
   ```
-
-
+## Auteur
+- Maroua Ourahma.
+    - Email : marouaourahma@gmail.com  
+    - LinkedIn : [linkedin.com/in/ourahma](www.linkedin.com/in/maroua-ourahma-293426235)
